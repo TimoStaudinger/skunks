@@ -1,0 +1,10 @@
+node_modules
+src
+typings
+
+.gitignore
+.npmignore
+
+tsconfig.json
+tslint.json
+typings.json
