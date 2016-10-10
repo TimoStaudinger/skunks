@@ -1,6 +1,6 @@
 {
   "name": "skunks",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Smarter Screeps Prototypes",
   "main": "./dist/skunks.js",
   "repository": "timosta/skunks",
